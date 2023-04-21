@@ -18,7 +18,8 @@ title: Bright Futures Initiative
 email: brightfutures2100@gmail.com
 description: Website for BFI
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: http://brightfutures.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://brightfutures2100.github.io/brightfutures.github.io/
+#url: http://brightfutures.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: James Watson
   name:
   twitter:
