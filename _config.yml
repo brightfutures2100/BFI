@@ -24,8 +24,8 @@ baseurl: "/BFI" # the optional subpath of your site, e.g. "/blog"
 url: "https://brightfutures2100.github.io"
   #repository: "brightfutures2100/BFI"
 
-author: James Watson
-  name:
+author: 
+  name: James Watson
   twitter:
   picture:
 twitter_username:
