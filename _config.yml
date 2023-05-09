@@ -8,6 +8,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -17,8 +19,9 @@ lang: en-US
 title: Bright Futures Initiative
 email: brightfutures2100@gmail.com
 description: Website for BFI
-baseurl: "/BFI/docs" # the optional subpath of your site, e.g. "/blog"
-url: "https://brightfutures2100.github.io" #url: http://brightfutures.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/BFI" # the optional subpath of your site, e.g. "/blog"
+url: "https://brightfutures2100.github.io"
+
 author: James Watson
   name:
   twitter:
@@ -38,7 +41,6 @@ algolia:
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
