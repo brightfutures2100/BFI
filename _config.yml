@@ -18,10 +18,11 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 lang: en-US
 title: Bright Futures Initiative
 email: brightfutures2100@gmail.com
+
 description: "Website for BFI"
 baseurl: "/BFI" # the optional subpath of your site, e.g. "/blog"
 url: "https://brightfutures2100.github.io"
-repository: "brightfutures2100/BFI"
+  #repository: "brightfutures2100/BFI"
 
 author: James Watson
   name:
@@ -47,7 +48,6 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-remote-theme
 feed:
   path: atom.xml
 
