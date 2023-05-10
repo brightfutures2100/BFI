@@ -16,7 +16,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Bright Futures Initiative
+title: BFI
 email: brightfutures2100@gmail.com
 
 description: "Website for BFI"
