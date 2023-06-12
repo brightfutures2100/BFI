@@ -2,6 +2,7 @@
 title: "About"
 layout: about
 ---
+<img style="float: right" src="./assets/images/BFI-glitch2.jpg" width="33%" /> <br>
 
 Existential Risks like climate change, General Artificial Intelligence, CRISPR gene-editing technologies, and robotization have the potential to end humanity. In  solving these problems, however, humanity also has the potential to begin a new chapter of unprecedented prosperity. The challenge is that as these risks become more real, people suffer from anxiety, hopelessness, and depression. For example, a recent study showed over half of people ages 16-25 feel “afraid, sad, anxious, angry, powerless, helpless, and/or guilty” about their futures [_1_]. To find solutions to these millennia-defining challenges, we need to stay hopeful and be confident in humanity’s ability to find novel and equitable solutions. We need to fixate all our energies on bright futures where these grand challenges have been solved. 
 
