@@ -16,7 +16,7 @@ Phase 3 - Reporting Out: We ask participants to reflect on the narratives genera
 Phase 4 - The Good/Bad and Multiple Perspectives: Participants are asked to revisit Phases 1-3 to build multiple versions of their future scenarios showing variations in outcomes, characters, and focal points. The idea is to generate multiple scenarios (the Good and the Bad) that can help participants and readers identify the key actions necessary to move towards and away from these future scenarios. 
 <br>
 <br>
-<img style="float: middle" src="./assets/images/bfi_flowchart.png" width="75%" /> 
+<img style="float: middle" src="./assets/images/bfi_flowchart.jpg" width="75%" /> 
 <br>
 <br>
 Initially, BFI will leverage AI tools like ChatGPT and the Midjourney Bot to help us get started in writing out a narrative about these future scenarios. Later on when there is more funding and network built, BFI workshops will include creatives of many roles (writers, artists, reporters) who will build out these narratives and visuals in a more involved human-centered approach. 
