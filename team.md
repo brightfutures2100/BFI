@@ -3,7 +3,7 @@ title: "Team"
 layout: about
 ---
 
-The Bright Futures Initiative was co-founded in 2021 by Dr. James Watson and Val Chang. BFI aims to bring together visionary people across disciplines to envision brighter future scenarios of the worlds we need by collaborating with a wide range of communities across cultural and geographic backgrounds. Interested in collaborating? Contact the BFI team: 
+The Bright Futures Initiative was co-founded in 2021 by Dr. James Watson and Val Chang. BFI aims to bring together visionary people across disciplines to envision brighter future scenarios of the worlds we need by collaborating with a wide range of communities across cultural and geographic backgrounds. Interested in collaborating? Contact the BFI team at brightfutures2100@gmail.com
 
 
 ## James Watson
