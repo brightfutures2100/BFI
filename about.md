@@ -9,7 +9,6 @@ But what do these bright futures look like? The **Bright Futures Initiative** en
 
 <br>
 
-
 <img style="float: middle" src="./assets/images/BFI-glitch2.jpg" width="75%" /> 
 <br>
 <br>
@@ -25,8 +24,5 @@ But what do these bright futures look like? The **Bright Futures Initiative** en
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 _1. Hickman et. al, "Climate anxiety in children and young people and their beliefs about government responses to climate change: a global survey", The Lancet Planetary Health, Volume 5, Issue 12, 2021_ 
