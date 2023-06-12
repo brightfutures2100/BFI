@@ -18,6 +18,8 @@ James is an Associate Professor leading the Socio-Environmental Analysis Lab at 
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ## Val Tien-Shin Chang
 <img style="float: right" src="./assets/images/val_headshot.jpg" width="33%" />
