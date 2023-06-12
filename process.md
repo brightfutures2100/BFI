@@ -41,7 +41,8 @@ Part 3: Generate Narrative
 <img style="float: middle" src="./assets/images/cascade_lakes.jpg" width="75%" />
 <br>
 <br>
-_[1] Andrew Merrie, Patrick Keys, Marc Metian, Henrik Österblom, Radical ocean futures-scenario development using science fiction prototyping, Futures, Volume 95, 2018, Pages 22-32, ISSN 0016-3287, https://doi.org/10.1016/j.futures.2017.09.005._
+
+_[1] Andrew Merrie, Patrick Keys, Marc Metian, Henrik Österblom, Radical ocean futures-scenario development using science fiction prototyping, Futures, Volume 95, 2018, Pages 22-32, ISSN 0016-3287, https://doi.org/10.1016/j.futures.2017.09.005_
 
 _[2] Nereus Program "Science-fiction prototyping to imagine radical futures ocean scenarios". Sept 26, 2016._
 
