@@ -10,7 +10,16 @@ But what do these bright futures look like? The **Bright Futures Initiative** en
 <br>
 
 
-<img style="float: right" src="./assets/images/BFI-glitch2.jpg" width="85%" /> 
+<img style="float: middle" src="./assets/images/BFI-glitch2.jpg" width="75%" /> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
