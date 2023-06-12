@@ -8,10 +8,15 @@ Existential Risks like climate change, General Artificial Intelligence, CRISPR g
 But what do these bright futures look like? The **Bright Futures Initiative** engages in creating science-informed visions of the future, where humanity’s grand challenges have been solved. We are leading a workshop process by which Oregon scientists, artists, and community members can collaboratively co-design bright futures based on the latest scientific understanding, and represent these futures using various artistic media and forms. 
 
 <br>
-<br>
-<br>
 
-<img style="float: right" src="./assets/images/BFI-glitch2.jpg" width="50%" /> 
+
+<img style="float: right" src="./assets/images/BFI-glitch2.jpg" width="85%" /> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
