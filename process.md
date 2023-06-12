@@ -17,7 +17,9 @@ Our sci-fi prototyping process draws heavily from the established body of work A
 **Phase 4 - Re-imagine Multiple Perspectives**: Participants are asked to revisit Phases 1-3 to build multiple versions of their future scenarios showing variations in outcomes, characters, and focal points. The idea is to generate multiple scenarios (the Good and the Bad) that can help participants and readers identify the key actions necessary to move towards and away from these future scenarios. 
 <br>
 <br>
-<img style="float: middle" src="./assets/images/bfi_flowchart.jpg" width="75%" /> 
+<img style="float: middle" src="./assets/images/bfi_flowchart.jpg" width="85%" /> 
+<figcaption> BFI workflow, adapted from Merrie's model [1] </figcaption>
+
 <br>
 <br>
 Initially, BFI will leverage AI tools like ChatGPT and the Midjourney Bot to help us get started in writing out a narrative about these future scenarios. Later on when there is more funding and network built, BFI workshops will include creatives of many roles (writers, artists, reporters) who will build out these narratives and visuals in a more involved human-centered approach. 
@@ -26,6 +28,7 @@ Initially, BFI will leverage AI tools like ChatGPT and the Midjourney Bot to hel
 **Workshop Phase 1 - Who's Futures?**: We ask participants the following questions to get a feel for what experiences and backgrounds are represented in the room. Participants are invited to partner with others and share their answers to the questions. (1) How would you describe yourself?, (2) What perspectives and expertise do you bring to this process?, (3) What three words would you use to describe how you feel about the future state of the world?, (4) In your area of interest or expertise, what is one big problem our world will face? 
 
 **Workshop Phase 2 - Narrative Development**: There are 3 parts to this narrative development phase.
+<br>
 <br>
 Part 1: Build scientific foundation and story setting
 
@@ -39,6 +42,7 @@ Part 3: Generate Narrative
 <br>
 <br>
 <img style="float: middle" src="./assets/images/cascade_lakes.jpg" width="75%" />
+ <figcaption> Midjourney generated image of a cascade lake in Oregon in the year 2050</figcaption>
 <br>
 <br>
 
@@ -46,4 +50,4 @@ _[1] Andrew Merrie, Patrick Keys, Marc Metian, Henrik Österblom, Radical ocean 
 
 _[2] Nereus Program "Science-fiction prototyping to imagine radical futures ocean scenarios". Sept 26, 2016._
 
-_[3] Radical Ocean Futures “Radical Ocean Futures: A Science Fiction Prototyping approach to imagining our future oceans”_
+_[3] Radical Ocean Futures, “Radical Ocean Futures: A Science Fiction Prototyping approach to imagining our future oceans”_
